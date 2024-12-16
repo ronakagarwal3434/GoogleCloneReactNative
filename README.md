@@ -124,9 +124,9 @@ src
 
 ## Deliverables
 
-- **APK File**: (Include link if available)
-- **GitHub Repository**: [Link to repository](#)
-- **Demo Video**: (Include Loom recording link if available)
+- **APK File**: [link to APK](https://drive.google.com/file/d/1m38f7CuQKAuVxYW2b95Re5VTxu7CmMQV/view)
+- **GitHub Repository**: [Link to repository](https://github.com/ronakagarwal3434/GoogleCloneReactNative)
+- **Demo Video**: [Link to Loom recording](https://www.loom.com/share/2f0b288fea874676ac1f6d5e2b2e4dec?sid=bb06a777-58b1-4993-977a-cb17dbb3eec4)
 
 ---
 
