@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "44508520265",
+    "project_id": "vani-learner",
+    "storage_bucket": "vani-learner.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44508520265:android:fb76ddf0ec1eb12d794498",
+        "android_client_info": {
+          "package_name": "com.googleclonereactnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44508520265-c8rmqngti8t3a9srlrel1fggdmjuvg43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.googleclonereactnative",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "44508520265-votufbssc7tqbjqmg02f22qo3vmhc0m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKq3Kc0Rw5loTMgabPWXfObjOCYx9wio0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44508520265-6dt12ioshcuu3mco6uuoim1us772ifjt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "44508520265-cl9sgcnh0e24l326l409nd35vubrrh13.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.VaniLearner"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44508520265:android:254bc5391cf5d4c0794498",
+        "android_client_info": {
+          "package_name": "com.vanilearner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44508520265-votufbssc7tqbjqmg02f22qo3vmhc0m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKq3Kc0Rw5loTMgabPWXfObjOCYx9wio0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44508520265-6dt12ioshcuu3mco6uuoim1us772ifjt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "44508520265-cl9sgcnh0e24l326l409nd35vubrrh13.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.VaniLearner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
